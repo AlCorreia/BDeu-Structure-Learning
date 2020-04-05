@@ -1,0 +1,15 @@
+Cython==0.29.6
+decorator==4.3.2
+line-profiler==2.1.1
+networkx==1.11
+numpy==1.16.2
+pandas==0.24.1
+pgmpy==0.1.7
+pyparsing==2.3.1
+python-dateutil==2.8.0
+pytz==2018.9
+scipy==1.2.1
+six==1.12.0
+tqdm==4.31.1
+virtualenv==16.4.1
+wrapt==1.11.1
