@@ -2,7 +2,7 @@ Cython==0.29.6
 decorator==4.3.2
 line-profiler==2.1.1
 networkx==1.11
-numpy==1.16.2
+numpy==1.22.0
 pandas==0.24.1
 pgmpy==0.1.7
 pyparsing==2.3.1
